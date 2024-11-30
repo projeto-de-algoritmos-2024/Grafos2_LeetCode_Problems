@@ -12,20 +12,21 @@
 ## Sobre 
 Esse projeto tem como objetivo armazenar as resoluções feitas dos seguintes exercícios do LeetCode:
 
-- (Hard) - 1º Exercício
-- (Hard) - 2º Exercício
-- (Medium) - 3º Exercício
+- (Hard) - [#329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/?envType=problem-list-v2&envId=agz1mbi2)
+- (Hard) - 
+- (Medium) - #547. Number of Provinces
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+#329. Longest Increasing Path in a Matrix
+![329](img/329Accepted.png)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python3<br>
+
+No caso, basta fazer uma conta no LeetCode, e ir no problema e copiar o código na resolução e testar. 
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Porém caso não queira testar pelo LeetCode, basta clonar o repositório e rodar o arquivo com o nome do número do exercício, foram setados os mesmos exemplos de inputs que consta na descrição do problema.
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Copiamos os problemas para o repositório, caso não queria abrir o LeetCode e queira ler a descrição do problema, clique [AQUI!!!](Problems.md)
