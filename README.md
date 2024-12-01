@@ -14,8 +14,7 @@ Esse projeto tem como objetivo armazenar as resoluções feitas dos seguintes ex
 
 - (Medium) - [#1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/?envType=problem-list-v2&envId=agsxfas5)
 - (Hard) - [#329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/?envType=problem-list-v2&envId=agz1mbi2)
-- (Hard) - 
-
+- (Hard) - [#3123. Find Edges in Shortest Paths](https://leetcode.com/problems/find-edges-in-shortest-paths/description/)
 
 ## Screenshots
 
@@ -25,13 +24,18 @@ Esse projeto tem como objetivo armazenar as resoluções feitas dos seguintes ex
 #329. Longest Increasing Path in a Matrix
 ![329](img/329Accepted.png)
 
+#3123. Find Edges in Shortest Paths
+![3123](img/3123-accepted.png)
+
 ## Instalação 
 **Linguagem**: Python3<br>
 
 No caso, basta fazer uma conta no LeetCode, e ir no problema e copiar o código na resolução e testar. 
 
 ## Uso 
-Porém caso não queira testar pelo LeetCode, basta clonar o repositório e rodar o arquivo com o nome do número do exercício, foram setados os mesmos exemplos de inputs que consta na descrição do problema.
+Porém caso não queira testar pelo LeetCode, basta clonar o repositório e rodar o arquivo com o nome do número do exercício, foram setados os mesmos exemplos de inputs que constam na descrição do problema.
 
 ## Outros 
 Copiamos os problemas para o repositório, caso não queria abrir o LeetCode e queira ler a descrição do problema, clique [AQUI!!!](Problems.md)
+
+## Vídeo
