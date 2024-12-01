@@ -12,11 +12,16 @@
 ## Sobre 
 Esse projeto tem como objetivo armazenar as resoluções feitas dos seguintes exercícios do LeetCode:
 
+- (Medium) - [#1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/?envType=problem-list-v2&envId=agsxfas5)
 - (Hard) - [#329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/?envType=problem-list-v2&envId=agz1mbi2)
 - (Hard) - 
-- (Medium) - #547. Number of Provinces
+
 
 ## Screenshots
+
+#1584. Min Cost to Connect All Points
+![1584](img/1584-accepted.jpeg)
+
 #329. Longest Increasing Path in a Matrix
 ![329](img/329Accepted.png)
 
