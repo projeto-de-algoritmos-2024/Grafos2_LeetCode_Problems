@@ -1,11 +1,11 @@
 # LeetCode Problems
 
 ## Sumário
-1. [#1584. Min Cost to Connect All Points](#1584-min-cost-to-connect-all-points-🔶) 
+1. [#1584. Min Cost to Connect All Points](#1584-min-cost-to-connect-all-points-) 
 
-2. [#329. Longest Increasing Path in a Matrix](#329-longest-increasing-path-in-a-matrix-🔴)
+2. [#329. Longest Increasing Path in a Matrix](#329-longest-increasing-path-in-a-matrix-)
 
-3. [#3123. Find Edges in Shortest Paths](#3123-find-edges-in-shortest-paths-🔴)
+3. [#3123. Find Edges in Shortest Paths](#3123-find-edges-in-shortest-paths-)
 
 ## #1584. Min Cost to Connect All Points 🔶
 
